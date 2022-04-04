@@ -1,0 +1,1 @@
+export 'geolocation/base_geolocation_repository.dart';
